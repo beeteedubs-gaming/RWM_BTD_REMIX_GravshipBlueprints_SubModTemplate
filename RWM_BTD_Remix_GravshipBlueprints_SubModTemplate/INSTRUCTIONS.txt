@@ -12,11 +12,13 @@ About Folder
 - You are done with the About Folder
 Gravship Blueprints Folder
 - Rename "YourFolder", this will show up as the ship category on scenario select
+- Delete the placeholder file I have placed in this folder
 - Put your ship design(s) (.btd file from your RimWorld.../Config/Gravship Blueprints/ folder), in your folder
 - You are done with the Gravship Blueprints Folder
 Textures Folder
 - Open the Gravship Blueprints folder inside the Textures folder
 	- Rename the "YourFolder" in this location; must match your previous folder name, case sensitive
+	- Delete the placeholder files I have placed in this folder
 	- Put your ship preview images in this folder
 		- Must be same name as your ship and match case
 		- _BBM.png will be the "Barebones" preview image
@@ -30,5 +32,6 @@ Your Mod is complete
 - Open your mod list
 - Select your mod
 - On the "Advanced" menu select to Upload to Steam
+
 
 Modify your mod's Steam Workshop page as desired and publish.
